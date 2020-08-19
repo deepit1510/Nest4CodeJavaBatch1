@@ -2,7 +2,7 @@ package nest4;
 
 import java.util.Scanner;
 
-public class restaurant {
+public class Assignment4 {
 	static Scanner input = new Scanner(System.in);
 		static int a;
 		static int even;
