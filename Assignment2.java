@@ -3,7 +3,7 @@ package nest4;
 import java.util.Scanner;
 
 public class Assignment2 {
-	static Scanner input = new Scanner("System.in");
+	static Scanner input = new Scanner(System.in);
 	static float heightConvertor(int hgt, int height) {
 		float f_hgt = (float)  (hgt *12*2.54+ height*2.54);
 		
