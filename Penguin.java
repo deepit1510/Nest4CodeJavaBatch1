@@ -1,4 +1,4 @@
-public class Penguin extends Bird  {
+public class Penguin extends Bird implement SwimBehaviour {
 
 	public sound sound() {
 		System.out.println("honking...");
