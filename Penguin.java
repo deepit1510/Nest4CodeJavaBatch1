@@ -1,6 +1,6 @@
 public class Penguin extends Bird  {
 
-	public abstract sound() {
+	public sound sound() {
 		System.out.println("honking...");
 	}
 }
